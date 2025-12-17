@@ -10,8 +10,8 @@ import { Attribution } from "https://esm.sh/ox/erc8021";
 const USDC_CONTRACT = "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"; // Base mainnet USDC
 const USDC_DECIMALS = 6;
 
-const BUILDER_CODE = "TODO_REPLACE_BUILDER_CODE";
-const RECIPIENT = "0x000000000000000000000000000000000000dEaD"; // checksummed burn address (safe default; replace for production)
+const BUILDER_CODE = "bc_4tcf5clw";
+const RECIPIENT = "0x5eC6AF0798b25C563B102d3469971f1a8d598121"; // checksummed burn address (safe default; replace for production)
 
 /**
  * ====================================================
