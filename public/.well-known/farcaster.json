@@ -17,15 +17,15 @@
       "usdc",
       "base"
     ],
-    "homeUrl": "https://nurrabby.com/",
-    "iconUrl": "https://nurrabby.com/assets/icon-1024.png",
-    "splashImageUrl": "https://nurrabby.com/assets/icon-200.png",
+    "homeUrl": "https://yield-vats.vercel.app/",
+    "iconUrl": "https://yield-vats.vercel.app/assets/icon-1024.png",
+    "splashImageUrl": "https://yield-vats.vercel.app/assets/icon-200.png",
     "splashBackgroundColor": "#0B0F0A",
-    "imageUrl": "https://nurrabby.com/assets/embed-3x2.png",
-    "heroImageUrl": "https://nurrabby.com/assets/hero-1200x630.png",
+    "imageUrl": "https://yield-vats.vercel.app/assets/embed-3x2.png",
+    "heroImageUrl": "https://yield-vats.vercel.app/assets/hero-1200x630.png",
     "ogTitle": "Yield-Vats",
     "ogDescription": "DeFi liquidity pools visualized as toxic waste barrels. Radiation Level = APY.",
-    "ogImageUrl": "https://nurrabby.com/assets/hero-1200x630.png",
+    "ogImageUrl": "https://yield-vats.vercel.app/assets/hero-1200x630.png",
     "requiredChains": [
       "eip155:8453"
     ],
