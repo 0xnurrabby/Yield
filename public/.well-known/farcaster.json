@@ -1,0 +1,37 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Yield-Vats",
+    "subtitle": "Cyber industrial DeFi lab",
+    "description": "Visualize DeFi liquidity pools as toxic vats. Mix sludges, watch radiation levels, and tip the lab in USDC on Base.",
+    "primaryCategory": "finance",
+    "tags": [
+      "defi",
+      "liquidity",
+      "apy",
+      "usdc",
+      "base"
+    ],
+    "homeUrl": "https://nurrabby.com/",
+    "iconUrl": "https://nurrabby.com/assets/icon-1024.png",
+    "splashImageUrl": "https://nurrabby.com/assets/icon-200.png",
+    "splashBackgroundColor": "#0B0F0A",
+    "imageUrl": "https://nurrabby.com/assets/embed-3x2.png",
+    "heroImageUrl": "https://nurrabby.com/assets/hero-1200x630.png",
+    "ogTitle": "Yield-Vats",
+    "ogDescription": "DeFi liquidity pools visualized as toxic waste barrels. Radiation Level = APY.",
+    "ogImageUrl": "https://nurrabby.com/assets/hero-1200x630.png",
+    "requiredChains": [
+      "eip155:8453"
+    ],
+    "requiredCapabilities": [
+      "wallet.getEthereumProvider",
+      "actions.ready"
+    ]
+  }
+}
